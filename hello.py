@@ -1,4 +1,8 @@
-n1=10
-n2=5
-result=n1/n2;
-print("Result:",result)
+n1=int(input("enter a number"))
+n2=int(input("enter a number"))
+sum=n1+n2;
+print("Result:",sum)
+n1=int(input("enter a number"))
+n2=int(input("enter a number"))
+min=n1-n2;
+print("Result:",min)
